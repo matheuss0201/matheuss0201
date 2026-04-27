@@ -8,7 +8,18 @@ Sou um **desenvolvedor full-stack** apaixonado por criar experiências web incr�
 
 ## 🛠️ Tecnologias & Ferramentas
 
-javascript const stack = { frontend: ['JavaScript', 'HTML', 'CSS', 'React'], backend: ['Node.js', 'Express'], databases: ['MongoDB', 'PostgreSQL'], tools: ['Git', 'VS Code', 'Webpack'] }
+### 🎨 Frontend
+- JavaScript | HTML | CSS | React
+
+### ⚙️ Backend
+- Node.js | Express
+
+### 💾 Databases
+- MongoDB | PostgreSQL
+
+### 🔧 Tools
+- Git | VS Code | Webpack
+
 
 
 
@@ -37,10 +48,6 @@ Confira meus repositórios para ver o que estou construindo!
 
 
 📧 E-mail: matheuss0201@gmail.com
-
-💼 LinkedIn: seu-perfil
-
-🌐 Portfólio:
 
 
 
