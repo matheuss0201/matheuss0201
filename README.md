@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**matheuss0201/matheuss0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Sou um **desenvolvedor full-stack** apaixonado por criar experiências web incríveis. Trabalho com as melhores tecnologias para transformar ideias em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+javascript const stack = { frontend: ['JavaScript', 'HTML', 'CSS', 'React'], backend: ['Node.js', 'Express'], databases: ['MongoDB', 'PostgreSQL'], tools: ['Git', 'VS Code', 'Webpack'] }
+
+
+
+🚀 O que eu faço
+
+✨ Desenvolvimento Full-Stack — Do design até a produção 
+🎨 Interfaces Modernas — HTML, CSS e JavaScript de alta qualidade 
+⚡ APIs Robustas — Backend escalável com Node.js 
+🔧 Soluções Completas — Pensando em um problema, eu resolvo  
+
+
+
+📊 Estatísticas
+
+Estatísticas do GitHub
+
+
+
+🎯 Projetos em destaque
+
+Confira meus repositórios para ver o que estou construindo!
+
+
+
+💬 Vamos conversar?
+
+
+📧 E-mail: matheuss0201@gmail.com
+
+💼 LinkedIn: seu-perfil
+
+🌐 Portfólio:
+
+
+
+📈 Objetivo
+
+Estou sempre aprendendo, criando e compartilhando conhecimento. Se você tem uma ideia interessante ou quer colaborar, vamos conversar! 🚀
+
+
+
+⭐ Se gostou, deixe uma estrela nos meus projetos!
+
+
+
