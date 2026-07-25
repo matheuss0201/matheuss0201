@@ -2,7 +2,7 @@
 
 # 👋 Bem-vindo ao meu GitHub!
 
-Sou um **desenvolvedor full-stack** apaixonado por criar experiências web incríveis. Trabalho com as melhores tecnologias para transformar ideias em código.
+Desenvolvedor Full-Stack formado, atualmente me especializando em novas tecnologias do mercado. Apaixonado por transformar ideias em código e criar experiências web incríveis.
 
 ---
 
