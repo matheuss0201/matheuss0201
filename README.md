@@ -42,15 +42,6 @@ Estatísticas do GitHub
 
 Confira meus repositórios para ver o que estou construindo!
 
-
-
-💬 Vamos conversar?
-
-
-📧 E-mail: 
-
-
-
 📈 Objetivo
 
 Estou sempre aprendendo, criando e compartilhando conhecimento. Se você tem uma ideia interessante ou quer colaborar, vamos conversar! 🚀
