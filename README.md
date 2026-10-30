@@ -1,66 +1,61 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-<img align="right" width="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### 💻 Desenvolvedor Front-End | Em constante evolução
 
-Sou profissional em transição para a área de tecnologia, com foco em **Desenvolvimento Front-End**.
+Sou profissional em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Front-End.
 
-Atualmente trabalho na Whirlpool, onde desenvolvi experiência em qualidade, melhoria contínua e resolução de problemas.
+Atualmente trabalho na Whirlpool como Operator Specialist III, com experiência em qualidade, melhoria contínua, análise de processos e resolução de problemas.
 
-Estou investindo na minha formação em tecnologia pelo SENAI, aprimorando meus conhecimentos em programação e desenvolvendo projetos práticos.
-
-Meu objetivo é transformar ideias em soluções digitais por meio da tecnologia.
+Estou direcionando minha carreira para a tecnologia, desenvolvendo projetos práticos e aprimorando continuamente meus conhecimentos em programação.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 🚀 Tecnologias e habilidades
 
-### 🎨 Front-End
+### 🎨 Desenvolvimento Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🔧 Ferramentas
+### 📊 Nível de conhecimento
+
+| Tecnologia | Nível |
+|---|---|
+| HTML5 | ⭐ Avançado |
+| CSS3 | ⭐ Avançado |
+| JavaScript | ⭐ Avançado |
+| React | 📚 Em aprendizado |
+
+### 🛠️ Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 📚 Meu nível atual
-
-| Tecnologia | Conhecimento |
-|---|---|
-| HTML5 | Intermediário |
-| CSS3 | Intermediário |
-| JavaScript | Intermediário |
-| React | Em aprendizado |
-| Git e GitHub | Em desenvolvimento |
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Projeto em destaque
+## 🧩 Projeto em destaque
 
-### 🧩 SkillMatch — Aplicação Web
+### SkillMatch — Aplicação Web de Compatibilidade Profissional
 
-Aplicação desenvolvida para conectar habilidades profissionais aos requisitos de vagas de emprego.
+Projeto desenvolvido para conectar habilidades profissionais aos requisitos de vagas de emprego.
 
-**Funcionalidades:**
-- Comparação entre habilidades e requisitos de vagas.
+**Principais funcionalidades:**
+- Comparação de habilidades profissionais.
+- Análise de compatibilidade com vagas.
 - Cálculo de percentual de compatibilidade.
-- Recomendação de oportunidades compatíveis.
-- Interface responsiva e interativa.
-- Análise de competências profissionais.
+- Recomendação de oportunidades.
+- Interface interativa e responsiva.
 
 **Tecnologias utilizadas:**
-
 HTML5 | CSS3 | JavaScript
 
-🌐 **Acesse o projeto:**
+🌐 **Aplicação online:**
 
 https://matheuss0201.github.io/skillmatch-web/
 
-💻 **Confira o código-fonte:**
+💻 **Repositório:**
 
 https://github.com/matheuss0201/skillmatch-web
 
@@ -70,29 +65,21 @@ https://github.com/matheuss0201/skillmatch-web
 
 **Whirlpool — Operator Specialist III**
 
-- Experiência em processos industriais.
-- Atuação em qualidade e melhoria contínua.
+- Atuação em qualidade.
+- Melhoria contínua de processos.
 - Identificação e resolução de problemas.
-- Trabalho em equipe.
-- Busca por melhorias nos processos.
-
----
-
-## 🎓 Formação
-
-**SENAI — Desenvolvimento Front-End com React**
-
-Formação em andamento desde abril de 2026.
-
-Estudos complementares em programação, desenvolvimento web, inglês e desenvolvimento profissional.
+- Análise de processos industriais.
+- Trabalho em equipe e desenvolvimento de soluções.
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade na área de Desenvolvimento Front-End, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior.
 
-Acredito no aprendizado contínuo, na colaboração e na tecnologia como ferramenta para solucionar problemas.
+Quero aplicar meus conhecimentos em projetos reais, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente na área de tecnologia.
+
+Acredito que dedicação, aprendizado contínuo e capacidade de resolver problemas são fundamentais para construir boas soluções.
 
 ---
 
@@ -102,4 +89,4 @@ Acredito no aprendizado contínuo, na colaboração e na tecnologia como ferrame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-alves-695625434/)
 
-⭐ Obrigado pela visita ao meu perfil!
+⭐ Obrigado por visitar meu perfil!
